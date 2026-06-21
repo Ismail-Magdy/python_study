@@ -66,7 +66,42 @@
 # print(dir(name)) # to get all methods and attributes of the variable Object type
 
 
-number=True
-number_two=False
-print(number and number_two) # and operator
-print(number or number_two) # or operator
+
+"""Day Two"""
+
+# number=True
+# number_two=False
+# print(number and number_two) # and operator
+# print(number or number_two) # or operator
+
+
+
+# x=4
+# y=5
+# print(not x==5)
+
+
+# print(bool(1))
+# print(bool(0))
+
+
+
+# double_python="python"*2
+# print(double_python)
+
+# print("e" in "ismail") # to check if the letter e is in the string ismail or not
+# print(1 in [1,2,3,4,5]) # to check if the number 1 is in the list or not
+# print("Hello" is "hello") # to check if the string Hello is the same as hello or not
+
+
+# x=[1,2,3]
+# y=[1,2,3]
+# print(id(x)) # to get the memory address of the list x
+# print(id(y)) # to get the memory address of the list y
+# print(x is y) # to check if the list x is the same as the list y
+
+
+
+none=None
+print(type(none))# equal to null in dart
+
