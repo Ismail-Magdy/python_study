@@ -102,6 +102,47 @@
 
 
 
-none=None
-print(type(none))# equal to null in dart
+# none=None
+# print(type(none))# equal to null in dart
 
+
+
+
+# Day Three
+
+# # Tips at Python
+# import this
+# print(this.s)
+
+
+# List
+# numbers=[1,2,3,4,5,6,7,8]
+# print(numbers)
+# print(type(numbers))
+
+
+
+# Another Shape of List
+names=[
+    "ismail",
+    "ali",
+    "ayman",
+    "ahmed",
+    "osama"]
+
+# print(names[2])
+# print(names[0].title()) # Make First Character Capital
+# print(names[-1])
+# print("My Name is "+names[0].title()+", and my Age is 21")
+
+
+
+# names.append("mohammed")# To add element to List
+# print(names)
+
+names.insert(2,"shehab") # The value will be at the Index I Write
+print(names)
+
+
+# numbers=[2,4,5]
+# print(numbers*2) # will repeat the numders at list, not multiply the numbers in 2
